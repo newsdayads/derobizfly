@@ -1,0 +1,15 @@
+https://github.com/newsdayads/derobizfly.git
+
+! sudo su
+! sudo apt update -y
+! apt-get nano
+! apt install htop -y
+! sudo apt-get install git -y
+
+! rm -rf derophone
+! git clone https://github.com/newsdayads/derobizfly.git
+! cd derophone
+! chmod +x rpc_mining.sh
+! chmod u+x astrominer
+! ./rpc_mining.sh
+!
